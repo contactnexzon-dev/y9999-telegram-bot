@@ -1,0 +1,5 @@
+<meta name='viewport' content='width=device-width, initial-scale=1'/>python-telegram-bot==20.7
+firebase-admin==6.4.0
+Flask==2.3.3
+gunicorn==21.2.0
+python-dotenv==1.0.0
